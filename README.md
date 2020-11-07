@@ -1,7 +1,5 @@
 Use URP Lighting to your 2D Project
-
 ![Cover Photo](doc/cover.PNG)
-
 1. Create new 2D Project, by default URP and Post Processing facilities not integrated to your 2D project, that's why we need to add this to our project from Windows -> PackageManager
 2. Right click on your project Create->Render->Universal Render Pipeline-> Universal Render Pipeline (Forward). Goto your Edit->Project Setting->Graphics-> Scriptable Render Pipeline Settings, assign newly created one to it.
 3. Goto your main camera
